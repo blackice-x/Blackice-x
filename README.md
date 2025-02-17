@@ -1,7 +1,7 @@
 Author: Blackicex
 ### Version 4
 
-![image](https://raw.githubusercontent.com/4lbH4cker/ALHacking/main/alhacking.png)
+![image](https://github.com/user-attachments/assets/5cdc7d4e-b571-4f43-ad60-c006d337cdfe)
 
 # Hacking Tools
 Tools to help you with ethical hacking, Social media hack, phone info, Gmail attack, phone number attack, user discovery, Webcam Hack
@@ -18,8 +18,9 @@ works on any of the following operating systems:
 
 # How to Install
 * Open the terminal and type `<pkg install git>`
-* Then`<git clone https://github.com/4lbH4cker/ALHacking>`
-* `<cd ALHacking>`
+* Then`<https://github.com/blackice-x/Blackice-x.git>`
+* `<cd Blackice-x>`
+* `<ls>`
 * `<bash blackicex.sh>`
 
 
