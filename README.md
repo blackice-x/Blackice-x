@@ -1,16 +1,28 @@
-## Hi there 👋
+Author: Blackicex
+### Version 4
 
-<!--
-**blackice-x/Blackice-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://raw.githubusercontent.com/4lbH4cker/ALHacking/main/alhacking.png)
 
-Here are some ideas to get you started:
+# Hacking Tools
+Tools to help you with ethical hacking, Social media hack, phone info, Gmail attack, phone number attack, user discovery, Webcam Hack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Powerful DDOS attack tool!!
+
+Youtube Video: https://www.youtube.com/watch?v=zgdq6ErscqY
+# Operating System Requirements
+works on any of the following operating systems:
+
+• Linux (Debian Based Systems)
+
+• Unix
+
+# How to Install
+* Open the terminal and type `<pkg install git>`
+* Then`<git clone https://github.com/4lbH4cker/ALHacking>`
+* `<cd ALHacking>`
+* `<bash blackicex.sh>`
+
+
+# Warning
+
+We are not responsible for any misuse or damage caused by this program. Use this tool at your own risk!
