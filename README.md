@@ -16,8 +16,9 @@ works on any of the following operating systems:
 • Unix
 
 # How to Install
-* Open the terminal and type `<pkg install git>`
-* Then`<https://github.com/blackice-x/Blackice-x.git>`
+* Open the terminal and type 
+*`sudo apt install`
+*`gitclone https://github.com/blackice-x/Blackice-x.git`
 * `<cd Blackice-x>`
 * `<ls>`
 * `<bash blackicex.sh>`
